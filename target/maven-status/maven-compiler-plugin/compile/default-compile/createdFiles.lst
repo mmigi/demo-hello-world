@@ -1,0 +1,13 @@
+com/company/repositories/UserDao.class
+com/company/services/UserService.class
+com/company/web/controllers/HelloController.class
+com/company/WebSecurityConfig.class
+com/company/model/CurrentUser.class
+com/company/services/CurrentUserDetailsService.class
+com/company/model/User.class
+com/company/services/UserServiceImpl.class
+com/company/model/UserCreateForm.class
+com/company/web/controllers/UserController.class
+com/company/web/controllers/LoginController.class
+com/company/model/validator/UserCreateFormValidator.class
+com/company/Application.class

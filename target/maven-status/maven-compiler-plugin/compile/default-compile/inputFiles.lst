@@ -1,0 +1,13 @@
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/Application.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/services/UserServiceImpl.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/web/controllers/LoginController.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/model/User.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/repositories/UserDao.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/web/controllers/HelloController.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/WebSecurityConfig.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/model/validator/UserCreateFormValidator.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/model/CurrentUser.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/model/UserCreateForm.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/services/UserService.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/web/controllers/UserController.java
+/Users/maximmigachev/tasks/demo-hello-world/src/main/java/com/company/services/CurrentUserDetailsService.java
